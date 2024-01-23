@@ -1,0 +1,68 @@
+{
+  "name": "first-react-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/colors": "^7.0.0",
+    "@ant-design/icons": "^5.2.6",
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/base": "^5.0.0-beta.24",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/lab": "^5.0.0-alpha.153",
+    "@mui/material": "^5.14.18",
+    "@mui/styles": "^5.14.19",
+    "@mui/system": "^5.14.18",
+    "@reduxjs/toolkit": "^1.9.7",
+    "@syncfusion/ej2-react-inputs": "^23.2.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.11.2",
+    "axios": "^1.6.2",
+    "copy-to-clipboard": "^3.3.3",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-color-palette": "^7.1.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-intl": "^6.5.5",
+    "react-modal": "^3.16.1",
+    "react-redux": "^8.1.3",
+    "react-router-dom": "^6.19.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.3",
+    "redux": "^4.2.1",
+    "toast": "^0.5.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
